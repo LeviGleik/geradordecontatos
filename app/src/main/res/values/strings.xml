@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gerador de Contatos</string>
+    <string name="action_settings">Configurações</string>
+    <string name="tim">Tim</string>
+    <string name="vivo">Vivo</string>
+    <string name="oi">Oi</string>
+    <string name="claro">Claro</string>
+    <string name="ok">Ok</string>
+    <string name="gerar">GERAR</string>
+    <string name="_1">1</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="_55">55</string>
+    <string name="ddi">DDI</string>
+    <string name="_85">85</string>
+    <string name="alt_ddi">Alterar para 55</string>
+    <string name="alt_ddd">Alterar para 85</string>
+    <string name="ddd">DDD</string>
+    <string name="novo">Novo</string>
+    <string name="salvar">Salvar</string>
+    <string name="copiar">Copiar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="gerador_de_contatos">Gerador de Contatos</string>
+</resources>

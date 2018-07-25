@@ -21,4 +21,17 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="gerador_de_contatos">Gerador de Contatos</string>
+    <string name="help">Ajuda</string>
+    <string name="about">Sobre</string>
+    <string name="ao_clicar">Ao clicar em COPIAR, vá em um gerenciador de arquivos, crie um arquivo qualquer - pode ser um arquivo de texto (.txt) ou do Word (.docx) ou qualquer outro e renomeie o final para \".vcf\" (sugestão: \"contacts.vcf\"). Após isso bastar clicar em cima e importar.</string>
+    <string name="ao_salvar">O arquivo foi gerado na raiz do armazenamento do telefone. Use um gerenciador de arquivo qualquer e procure por \"/0\" ou \"sdcard\", lá estará o arquivo gerado. Outra opção é ir no aplicativo de  Contatos e clicar em \"importar contatos\".</string>
+    <string name="versao">Versão</string>
+    <string name="_1_0">1.0</string>
+    <string name="contato">Contato</string>
+    <string name="facebook">Facebook:</string>
+    <string name="linkedin">LinkedIn:</string>
+    <string name="levi_gleik_fb">http://www.facebook.com/levi.gleik2</string>
+    <string name="levi_gleik_ln">https://www.linkedin.com/in/levi-gleik-2014a5168/</string>
+    <string name="whatsapp">WhatsApp:</string>
+    <string name="meu_numero">+55 85 98828-8483</string>
 </resources>

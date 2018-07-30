@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerador de Contatos</string>
+    <string name="gerador_de_contatos">Contacts Generator</string>
+    <string name="gerar">GENERATE</string>
+    <string name="novo">New</string>
+    <string name="ao_salvar">The file was generated to the root of the phone. Use any file manager and search for \\\"/0\\\" or \\\"sdcard\\\". Another option is go to default phone Contacts App and search for \"import\".</string>
+    <string name="quantidade">Amount</string>
+    <string name="salvar">Save</string>
+    <string name="about">About</string>
+    <string name="versao">Version</string>
+    <string name="help">Help</string>
+    <string name="alt_ddi">Change to 55</string>
+    <string name="ao_clicar">When you click COPY, go to a file manager, create any file - it can be a text file (.txt) or Word (.docx) or any other file and rename the ending to \".vcf\" (hint: contacts.vcf \"). After that, just click on import.</string>
+    <string name="action_settings">Settings</string>
+    <string name="contato">Contact</string>
+    <string name="copiar">Copy</string>
+</resources>

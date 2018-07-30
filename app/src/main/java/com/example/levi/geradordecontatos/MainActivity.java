@@ -107,12 +107,7 @@ public class MainActivity extends AppCompatActivity {
                         builder.create();
                         txtDDI.requestFocus();
                     }else if(txtDDD.getText().toString().isEmpty()) {
-                        builder.setMessage("O DDD não pode ser nulo.").setPositiveButton(R.string.alt_ddd, new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialogInterface, int i) {
-                                txtDDD.setText(R.string._85);
-                            }
-                        }).setNegativeButton(R.string.ok, new DialogInterface.OnClickListener() {
+                        builder.setMessage("O DDD não pode ser nulo.").setNegativeButton(R.string.ok, new DialogInterface.OnClickListener() {
                             public void onClick(DialogInterface dialog, int id) {
 
                             }
